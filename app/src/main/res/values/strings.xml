@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Compose</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="search_hint">Search Movie</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+</resources>
